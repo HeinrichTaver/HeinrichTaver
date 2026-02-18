@@ -6,12 +6,12 @@
 
 ## 🛠️ Core Skills
 
-**Languages:** JavaScript/TypeScript, Python, Ruby, **Golang (expanding)**
-**Frameworks:** Next.js/React, Node.js, **Rails (expanding)**, Astro, Docker
-**Tools:** PostgreSQL, Elasticsearch, Vercel/Vultr, REST APIs, CI/CD
+- **Languages:** JavaScript/TypeScript, Python, Ruby, **Golang (expanding)**
+- **Frameworks:** Next.js/React, Node.js, **Rails (expanding)**, Astro, Docker
+- **Tools:** PostgreSQL, Elasticsearch, Vercel/Vultr, REST APIs, CI/CD
 
 ## 🌐 Online
 
-💼 [LinkedIn](https://linkedin.com/in/htaver)
-💼 [Wellfound](https://wellfound.com/u/htaver)
-🌐 [Website](https://www.heinrichtaver.com)
+- 💼 [LinkedIn](https://linkedin.com/in/htaver)
+- 💼 [Wellfound](https://wellfound.com/u/htaver)
+- 🌐 [Website](https://www.heinrichtaver.com)
